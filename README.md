@@ -13,3 +13,9 @@ Active learning enhances annotation efficiency by selecting the most revealing s
 ![annoataion cost compare with difference methods](pic/compare.jpg)
 
 ![framework](pic/frameworks.jpg)
+
+## Citation
+
+For academic use, please cite:
+```
+```
