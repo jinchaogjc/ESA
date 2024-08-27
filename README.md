@@ -18,4 +18,13 @@ Active learning enhances annotation efficiency by selecting the most revealing s
 
 For academic use, please cite:
 ```
+@misc{ge2024esaannotationefficientactivelearning,
+      title={ESA: Annotation-Efficient Active Learning for Semantic Segmentation}, 
+      author={Jinchao Ge and Zeyu Zhang and Minh Hieu Phan and Bowen Zhang and Akide Liu and Yang Zhao},
+      year={2024},
+      eprint={2408.13491},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2408.13491}, 
+}
 ```
