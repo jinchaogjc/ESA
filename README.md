@@ -4,6 +4,8 @@
 
 *Corresponding author: y.zhao2@latrobe.edu.au 
 
+<em><b>ICIC 2025 Oral</b></em>
+
 [[**Paper Link**]](https://arxiv.org/abs/2408.13491) [[Papers with Code]](https://paperswithcode.com/paper/esa-annotation-efficient-active-learning-for)
 
 ## Abstract
