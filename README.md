@@ -107,7 +107,7 @@ python test.py -cfg configs/coco2voc/deeplabv3plus_r101_cocovoc_PA_40_d0.yaml re
 
 
 ## Acknowledgements
-This project is based on the following open-source projects: [RIPU](https://github.com/BIT-DA/RIPU). We thank their authors for making the source code publically available.
+This project is based on the following open-source projects: [RIPU](https://github.com/BIT-DA/RIPU) and [SNIC](https://github.com/achanta/SNIC). We thank their authors for making the source code publically available.
 
 
 ## Citation
