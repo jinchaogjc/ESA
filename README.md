@@ -6,7 +6,7 @@
 
 [Jinchao Ge](https://github.com/jinchaogjc), [Zeyu Zhang](https://steve-zeyu-zhang.github.io/), [Minh Hieu Phan](https://scholar.google.com/citations?user=gSEw8EsAAAAJ&hl=en), [Bowen Zhang](https://www.linkedin.com/in/bowen-zhang-a7403095/), [Akide Liu](https://www.linkedin.com/in/akideliu/), [Yang Zhao](https://yangyangkiki.github.io/), [Shuwen Zhao](https://github.com/Dooonut)*
 
-*Corresponding author: y.zhao2@latrobe.edu.au 
+*Corresponding author: DonutZsw@gmail.com
 
 <em><b>ICIC 2025 Oral</b></em>
 
