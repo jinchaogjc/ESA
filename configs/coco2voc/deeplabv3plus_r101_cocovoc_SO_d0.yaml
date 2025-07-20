@@ -1,0 +1,30 @@
+MODEL:
+  NAME: "deeplabv3plus_resnet101"  # deeplabv2_resnet101 & deeplabv3plus_resnet101
+  WEIGHTS: "https://download.pytorch.org/models/resnet101-5d3b4d8f.pth"
+  FREEZE_BN: True
+  NUM_CLASSES: 81
+DATASETS:
+  SOURCE_TRAIN: "coco_train"   # coco_train
+  TARGET_TRAIN: "voc_train"
+  TEST: "voc_val"
+  # DEBUG: True
+INPUT:
+  SOURCE_INPUT_SIZE_TRAIN: (512, 512)
+  TARGET_INPUT_SIZE_TRAIN: (512, 512)
+  INPUT_SIZE_TEST: (512, 512)
+SOLVER:
+  BASE_LR: 2.5e-4
+  # MAX_ITER: 62500
+  STOP_ITER: 40000
+  BATCH_SIZE: 2
+  CONSISTENT_LOSS: 0.0
+  NEGATIVE_LOSS: 0.0
+  NEGATIVE_THRESHOLD: 0.05
+ACTIVE:
+  NAME: 'AL-RIPU'
+  # SETTING: 'EA'
+  SETTING: 'SO'
+  # SELECT_ITER: [10000, 12000, 14000, 16000, 18000]
+  # PIXELS: 0
+  # RADIUS_K: 32
+  # DEBUG: 1
