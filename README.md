@@ -125,7 +125,6 @@ For academic use, please cite:
   isbn="978-981-95-0011-6"
 }
 ```
-```
 
 ## Contact
 
