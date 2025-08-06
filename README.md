@@ -114,11 +114,15 @@ This project is based on the following open-source projects: [RIPU](https://gith
 
 For academic use, please cite:
 ```
-@article{ge2024esa,
+@InProceedings{ge2025esa,
   title={ESA: Annotation-Efficient Active Learning for Semantic Segmentation},
-  author={Ge, Jinchao and Zhang, Zeyu and Phan, Minh Hieu and Zhang, Bowen and Liu, Akide and Zhao, Yang},
-  journal={arXiv preprint arXiv:2408.13491},
-  year={2024}
+  author={Ge, Jinchao and Zhang, Zeyu and Phan, Minh Hieu and Zhang, Bowen and Liu, Akide, and Zhao, Yang and Zhao, Shuwen},
+  booktitle="Advanced Intelligent Computing Technology and Applications",
+  year="2025",
+  publisher="Springer Nature Singapore",
+  address="Singapore",
+  pages="141--152",
+  isbn="978-981-95-0011-6"
 }
 ```
 ```
